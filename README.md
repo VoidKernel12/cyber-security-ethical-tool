@@ -35,10 +35,20 @@ Read `DISCLAIMER.md` before use.
 
 ```bash
 pkg update -y
-pkg install git -y
-git clone https://github.com/yourusername/sentinel-cli.git
-cd sentinel-cli
+```
+```bash
+pkg install git
+```
+```bash
+git clone https://github.com/VoidKernel12/cyber-security-ethical-tool.git
+```
+```bash
+cd cyber-security-ethical-tool
+```
+```bash
 chmod +x install.sh
+```
+```bash
 ./install.sh
 ```
 
