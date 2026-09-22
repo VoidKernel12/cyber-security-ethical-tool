@@ -51,7 +51,10 @@ chmod +x install.sh
 ```bash
 ./install.sh
 ```
-
+𝗥𝗨𝗡 𝗧𝗢𝗢𝗟
+```bash
+python3 secaudit.py
+ ```
 The installer will:
 - Verify/install Python 3 and pip
 - Offer to install Flask, for spinning up a disposable local test target
