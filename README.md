@@ -119,7 +119,7 @@ Press CTRL+C to quit
 ... (12 requests total)
 ```
 
-**SENTINEL-CLI, Module 11 — Local Application Strength & Concurrency Load Test:**
+**SENTINEL-CLI, Module 11 cyber-security-ethical-tool— ad Test:**
 ```
 sentinel> 10
 
