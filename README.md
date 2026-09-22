@@ -98,7 +98,7 @@ Credentials are stored locally at `~/.sentinel_cli/auth.json` as a SHA-256 hash 
 | 8 | SSL/TLS Inspector | Reports protocol version, cipher suite, and certificate details |
 | 9 | Rate-Limit & Latency Tester | Sends sequential requests and measures latency / HTTP 429 behavior |
 | 10 | API / Directory Endpoint Discovery | Passive wordlist probe (built-in or custom file) for common paths |
-| 11 | Local App Strength & Concurrency Load Test | Fires 1–150 concurrent GET/POST requests at a direct URL, with a live progress bar and full latency/throughput summary |
+| 11 | Local Website Strength & Capacity Testing | Fires 1–150 concurrent GET/POST requests at a direct URL, with a live progress bar and full latency/throughput summary |
 
 ---
 
